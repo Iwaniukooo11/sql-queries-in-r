@@ -3,7 +3,7 @@
  # SQL tasks in R
 
 
-A project, in which I re-write SQL queries. Each one with the different R library 
+A project, in which I re-write SQL queries into R scripts. Each one with the different R library 
 
 ## Usage
 * Unzip Posts.csv.gz, Comments.csv.gz, Users.csv.gz
