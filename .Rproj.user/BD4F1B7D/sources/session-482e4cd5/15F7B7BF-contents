@@ -5,9 +5,11 @@
 
 A project, in which I re-write SQL queries. Each one with the different R library 
 
-**Usage**
+## Usage
 * Unzip Posts.csv.gz, Comments.csv.gz, Users.csv.gz
 * Leave csv files in data folder
+
+## Info
 
 
 **Data Source:** https://archive.org/details/stackexchange   

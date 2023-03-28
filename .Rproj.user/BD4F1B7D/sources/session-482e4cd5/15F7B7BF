@@ -3,7 +3,7 @@
     "path": "~/Documents/Projects/R/sql-tasks-in-r/lab1/readme.MD",
     "project_path": "readme.MD",
     "type": "markdown",
-    "hash": "2377282984",
+    "hash": "3922039171",
     "contents": "",
     "dirty": false,
     "created": 1680020169770.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,32",
+        "cursorPosition": "11,7",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1680020779,
+    "lastKnownWriteTime": 1680020863,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1680020779970,
+    "last_content_update": 1680020863535,
     "read_only": false,
     "read_only_alternatives": []
 }
