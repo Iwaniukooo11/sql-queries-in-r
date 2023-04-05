@@ -1,9 +1,9 @@
-# package.install('sqldf')
-# package.install('data.table')
-# package.install('dplyr')
-# package.install('compare')
-# package.install('microbenchmark')
-# package.install('margrittr')
+# install.packages('sqldf')
+# install.packages('data.table')
+# install.packages('dplyr')
+# install.packages('compare')
+# install.packages('microbenchmark')
+# install.packages('margrittr')
 
 
 library('sqldf')
